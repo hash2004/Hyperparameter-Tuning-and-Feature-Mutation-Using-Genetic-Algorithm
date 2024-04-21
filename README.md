@@ -53,7 +53,7 @@
     </ol>
 
    <h5>Feature Mutation</h5>
-    <p>In addition to hyperparameter tuning, our algorithm mutates features by including, excluding, or modifying
+    <p>In addition to hyperparameter tuning, our algorithm mutates features by including, or excluding, 
         features based on their contribution to model accuracy.</p>
 
    <h5>Challenges Overcome</h5>
